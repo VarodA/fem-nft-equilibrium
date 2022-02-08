@@ -92,6 +92,7 @@ img {
 .card_description h1 {
   color: var(--white);
   font-size: 20px;
+  cursor: pointer;
 }
 
 .card_description h1:hover {
@@ -126,7 +127,6 @@ img {
 
 .card_footer span {
   color: var(--white);
-  cursor: pointer;
 }
 
 .card_footer img {
