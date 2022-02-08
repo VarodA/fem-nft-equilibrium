@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VarodA/fem-nft-equilibrium)
-- Live Site URL: [Add live site URL here](https://varoda.github.io/fem-nft-equilibrium/)
+- Solution URL: [Solution here](https://github.com/VarodA/fem-nft-equilibrium)
+- Live Site URL: [Live site here](https://varoda.github.io/fem-nft-equilibrium/)
 
 ## My process
 
