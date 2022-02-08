@@ -126,10 +126,13 @@ img {
 
 .card_footer span {
   color: var(--white);
+  cursor: pointer;
 }
 
 .card_footer img {
   width: 30px;
+  border: 1px solid var(--white);
+  border-radius: 50%;
 }
 
 .attribution {
